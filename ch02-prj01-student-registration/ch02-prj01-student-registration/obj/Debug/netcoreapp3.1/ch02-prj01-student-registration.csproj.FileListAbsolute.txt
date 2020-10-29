@@ -1,0 +1,12 @@
+C:\repos\c#-instruction\ch02-prj01-student-registration\ch02-prj01-student-registration\bin\Debug\netcoreapp3.1\ch02-prj01-student-registration.exe
+C:\repos\c#-instruction\ch02-prj01-student-registration\ch02-prj01-student-registration\bin\Debug\netcoreapp3.1\ch02-prj01-student-registration.deps.json
+C:\repos\c#-instruction\ch02-prj01-student-registration\ch02-prj01-student-registration\bin\Debug\netcoreapp3.1\ch02-prj01-student-registration.runtimeconfig.json
+C:\repos\c#-instruction\ch02-prj01-student-registration\ch02-prj01-student-registration\bin\Debug\netcoreapp3.1\ch02-prj01-student-registration.runtimeconfig.dev.json
+C:\repos\c#-instruction\ch02-prj01-student-registration\ch02-prj01-student-registration\bin\Debug\netcoreapp3.1\ch02-prj01-student-registration.dll
+C:\repos\c#-instruction\ch02-prj01-student-registration\ch02-prj01-student-registration\bin\Debug\netcoreapp3.1\ch02-prj01-student-registration.pdb
+C:\repos\c#-instruction\ch02-prj01-student-registration\ch02-prj01-student-registration\obj\Debug\netcoreapp3.1\ch02-prj01-student-registration.AssemblyInfoInputs.cache
+C:\repos\c#-instruction\ch02-prj01-student-registration\ch02-prj01-student-registration\obj\Debug\netcoreapp3.1\ch02-prj01-student-registration.AssemblyInfo.cs
+C:\repos\c#-instruction\ch02-prj01-student-registration\ch02-prj01-student-registration\obj\Debug\netcoreapp3.1\ch02-prj01-student-registration.csproj.CoreCompileInputs.cache
+C:\repos\c#-instruction\ch02-prj01-student-registration\ch02-prj01-student-registration\obj\Debug\netcoreapp3.1\ch02-prj01-student-registration.dll
+C:\repos\c#-instruction\ch02-prj01-student-registration\ch02-prj01-student-registration\obj\Debug\netcoreapp3.1\ch02-prj01-student-registration.pdb
+C:\repos\c#-instruction\ch02-prj01-student-registration\ch02-prj01-student-registration\obj\Debug\netcoreapp3.1\ch02-prj01-student-registration.genruntimeconfig.cache

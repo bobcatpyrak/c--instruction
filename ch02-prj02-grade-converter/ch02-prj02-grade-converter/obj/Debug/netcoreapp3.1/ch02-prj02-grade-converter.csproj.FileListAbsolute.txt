@@ -1,0 +1,12 @@
+C:\repos\c#-instruction\ch02-prj02-grade-converter\ch02-prj02-grade-converter\bin\Debug\netcoreapp3.1\ch02-prj02-grade-converter.exe
+C:\repos\c#-instruction\ch02-prj02-grade-converter\ch02-prj02-grade-converter\bin\Debug\netcoreapp3.1\ch02-prj02-grade-converter.deps.json
+C:\repos\c#-instruction\ch02-prj02-grade-converter\ch02-prj02-grade-converter\bin\Debug\netcoreapp3.1\ch02-prj02-grade-converter.runtimeconfig.json
+C:\repos\c#-instruction\ch02-prj02-grade-converter\ch02-prj02-grade-converter\bin\Debug\netcoreapp3.1\ch02-prj02-grade-converter.runtimeconfig.dev.json
+C:\repos\c#-instruction\ch02-prj02-grade-converter\ch02-prj02-grade-converter\bin\Debug\netcoreapp3.1\ch02-prj02-grade-converter.dll
+C:\repos\c#-instruction\ch02-prj02-grade-converter\ch02-prj02-grade-converter\bin\Debug\netcoreapp3.1\ch02-prj02-grade-converter.pdb
+C:\repos\c#-instruction\ch02-prj02-grade-converter\ch02-prj02-grade-converter\obj\Debug\netcoreapp3.1\ch02-prj02-grade-converter.AssemblyInfoInputs.cache
+C:\repos\c#-instruction\ch02-prj02-grade-converter\ch02-prj02-grade-converter\obj\Debug\netcoreapp3.1\ch02-prj02-grade-converter.AssemblyInfo.cs
+C:\repos\c#-instruction\ch02-prj02-grade-converter\ch02-prj02-grade-converter\obj\Debug\netcoreapp3.1\ch02-prj02-grade-converter.csproj.CoreCompileInputs.cache
+C:\repos\c#-instruction\ch02-prj02-grade-converter\ch02-prj02-grade-converter\obj\Debug\netcoreapp3.1\ch02-prj02-grade-converter.dll
+C:\repos\c#-instruction\ch02-prj02-grade-converter\ch02-prj02-grade-converter\obj\Debug\netcoreapp3.1\ch02-prj02-grade-converter.pdb
+C:\repos\c#-instruction\ch02-prj02-grade-converter\ch02-prj02-grade-converter\obj\Debug\netcoreapp3.1\ch02-prj02-grade-converter.genruntimeconfig.cache

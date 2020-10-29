@@ -1,0 +1,13 @@
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\bin\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.exe
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\bin\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.deps.json
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\bin\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.runtimeconfig.json
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\bin\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.runtimeconfig.dev.json
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\bin\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.dll
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\bin\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.pdb
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\obj\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.csprojAssemblyReference.cache
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\obj\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.AssemblyInfoInputs.cache
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\obj\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.AssemblyInfo.cs
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\obj\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.csproj.CoreCompileInputs.cache
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\obj\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.dll
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\obj\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.pdb
+C:\repos\c#-instruction\ch02-prj03-rectangle-calculator\ch02-prj03-rectangle-calculator\obj\Debug\netcoreapp3.1\ch02-prj03-rectangle-calculator.genruntimeconfig.cache
