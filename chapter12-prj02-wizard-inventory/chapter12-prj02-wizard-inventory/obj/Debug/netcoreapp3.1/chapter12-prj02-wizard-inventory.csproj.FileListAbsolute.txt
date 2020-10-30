@@ -1,0 +1,13 @@
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\bin\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.exe
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\bin\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.deps.json
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\bin\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.runtimeconfig.json
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\bin\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.runtimeconfig.dev.json
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\bin\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.dll
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\bin\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.pdb
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\obj\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.csprojAssemblyReference.cache
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\obj\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.AssemblyInfoInputs.cache
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\obj\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.AssemblyInfo.cs
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\obj\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.csproj.CoreCompileInputs.cache
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\obj\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.dll
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\obj\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.pdb
+C:\repos\c#-instruction\chapter12-prj02-wizard-inventory\chapter12-prj02-wizard-inventory\obj\Debug\netcoreapp3.1\chapter12-prj02-wizard-inventory.genruntimeconfig.cache

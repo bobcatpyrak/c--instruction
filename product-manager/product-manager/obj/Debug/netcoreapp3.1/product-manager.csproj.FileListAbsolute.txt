@@ -1,0 +1,13 @@
+C:\repos\c#-instruction\product-manager\product-manager\bin\Debug\netcoreapp3.1\product-manager.exe
+C:\repos\c#-instruction\product-manager\product-manager\bin\Debug\netcoreapp3.1\product-manager.deps.json
+C:\repos\c#-instruction\product-manager\product-manager\bin\Debug\netcoreapp3.1\product-manager.runtimeconfig.json
+C:\repos\c#-instruction\product-manager\product-manager\bin\Debug\netcoreapp3.1\product-manager.runtimeconfig.dev.json
+C:\repos\c#-instruction\product-manager\product-manager\bin\Debug\netcoreapp3.1\product-manager.dll
+C:\repos\c#-instruction\product-manager\product-manager\bin\Debug\netcoreapp3.1\product-manager.pdb
+C:\repos\c#-instruction\product-manager\product-manager\obj\Debug\netcoreapp3.1\product-manager.csprojAssemblyReference.cache
+C:\repos\c#-instruction\product-manager\product-manager\obj\Debug\netcoreapp3.1\product-manager.AssemblyInfoInputs.cache
+C:\repos\c#-instruction\product-manager\product-manager\obj\Debug\netcoreapp3.1\product-manager.AssemblyInfo.cs
+C:\repos\c#-instruction\product-manager\product-manager\obj\Debug\netcoreapp3.1\product-manager.csproj.CoreCompileInputs.cache
+C:\repos\c#-instruction\product-manager\product-manager\obj\Debug\netcoreapp3.1\product-manager.dll
+C:\repos\c#-instruction\product-manager\product-manager\obj\Debug\netcoreapp3.1\product-manager.pdb
+C:\repos\c#-instruction\product-manager\product-manager\obj\Debug\netcoreapp3.1\product-manager.genruntimeconfig.cache

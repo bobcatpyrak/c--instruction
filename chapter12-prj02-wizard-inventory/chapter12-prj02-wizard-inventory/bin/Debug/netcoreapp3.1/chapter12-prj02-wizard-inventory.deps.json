@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "chapter12-prj02-wizard-inventory/1.0.0": {
+        "runtime": {
+          "chapter12-prj02-wizard-inventory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chapter12-prj02-wizard-inventory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\repos\c#-instruction\pig-dice\pig-dice\bin\Debug\netcoreapp3.1\pig-dice.exe
+C:\repos\c#-instruction\pig-dice\pig-dice\bin\Debug\netcoreapp3.1\pig-dice.deps.json
+C:\repos\c#-instruction\pig-dice\pig-dice\bin\Debug\netcoreapp3.1\pig-dice.runtimeconfig.json
+C:\repos\c#-instruction\pig-dice\pig-dice\bin\Debug\netcoreapp3.1\pig-dice.runtimeconfig.dev.json
+C:\repos\c#-instruction\pig-dice\pig-dice\bin\Debug\netcoreapp3.1\pig-dice.dll
+C:\repos\c#-instruction\pig-dice\pig-dice\bin\Debug\netcoreapp3.1\pig-dice.pdb
+C:\repos\c#-instruction\pig-dice\pig-dice\obj\Debug\netcoreapp3.1\pig-dice.csprojAssemblyReference.cache
+C:\repos\c#-instruction\pig-dice\pig-dice\obj\Debug\netcoreapp3.1\pig-dice.AssemblyInfoInputs.cache
+C:\repos\c#-instruction\pig-dice\pig-dice\obj\Debug\netcoreapp3.1\pig-dice.AssemblyInfo.cs
+C:\repos\c#-instruction\pig-dice\pig-dice\obj\Debug\netcoreapp3.1\pig-dice.csproj.CoreCompileInputs.cache
+C:\repos\c#-instruction\pig-dice\pig-dice\obj\Debug\netcoreapp3.1\pig-dice.dll
+C:\repos\c#-instruction\pig-dice\pig-dice\obj\Debug\netcoreapp3.1\pig-dice.pdb
+C:\repos\c#-instruction\pig-dice\pig-dice\obj\Debug\netcoreapp3.1\pig-dice.genruntimeconfig.cache

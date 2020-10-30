@@ -1,0 +1,13 @@
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\bin\Debug\netcoreapp3.1\ch05-demo1.exe
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\bin\Debug\netcoreapp3.1\ch05-demo1.deps.json
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\bin\Debug\netcoreapp3.1\ch05-demo1.runtimeconfig.json
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\bin\Debug\netcoreapp3.1\ch05-demo1.runtimeconfig.dev.json
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\bin\Debug\netcoreapp3.1\ch05-demo1.dll
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\bin\Debug\netcoreapp3.1\ch05-demo1.pdb
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\obj\Debug\netcoreapp3.1\ch05-demo1.AssemblyInfoInputs.cache
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\obj\Debug\netcoreapp3.1\ch05-demo1.AssemblyInfo.cs
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\obj\Debug\netcoreapp3.1\ch05-demo1.csproj.CoreCompileInputs.cache
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\obj\Debug\netcoreapp3.1\ch05-demo1.dll
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\obj\Debug\netcoreapp3.1\ch05-demo1.pdb
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\obj\Debug\netcoreapp3.1\ch05-demo1.genruntimeconfig.cache
+C:\repos\c#-instruction\ch05-demo\ch05-demo1\obj\Debug\netcoreapp3.1\ch05-demo1.csprojAssemblyReference.cache
